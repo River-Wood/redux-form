@@ -1,4 +1,5 @@
 export default function() {
+    // console.log(action);
     return [
         { title : 'Javascript', pages : 111},
         { title : 'Harry', pages : 121},
